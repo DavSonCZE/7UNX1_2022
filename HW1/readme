@@ -1,0 +1,20 @@
+Instructions for wizard:
+------------------------
+1) chmod +x /home/renamer/Downloads/davsonfilenamer_master/run_install.sh
+2) ./home/renamer/Downloads/davsonfilenamer_master/run_install.sh
+3) cd /home/renamer/Desktop/davsonrenamer_Control/
+4) sudo ./install.sh
+
+Poznámky:
+-----------
+Na ploše se vytvoří složka davsonrenamer_Control:
+ten obsahuje:
+install.sh -> instalator script
+control.sh -> ovládání služby
+init_defaultfolder.sh -> reset složky
+uninstall.sh -> ovládání služby
+
+
+
+
+
